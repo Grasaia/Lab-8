@@ -4,7 +4,7 @@
   function showMeText(){
     var textbox = document.getElementById('entryinput');
     document.getElementById('textoutput').innerHTML = textbox.value;
-    alert("Daniel Krieglstein: " + textbox.value);
+    alert("Savon Dugger: " + textbox.value);
 }
 
   button.addEventListener('click', showMeText);
